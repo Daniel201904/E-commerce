@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Usuarios", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Productos", "Microservicio_Productos\Microservicio_Productos.csproj", "{65058167-29C2-4379-8569-2AB011DB9128}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Pedidos", "Microservicio_Pedidos\Microservicio_Pedidos.csproj", "{B7D9253E-BB0D-4074-A524-80B1682264E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{65058167-29C2-4379-8569-2AB011DB9128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65058167-29C2-4379-8569-2AB011DB9128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65058167-29C2-4379-8569-2AB011DB9128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7D9253E-BB0D-4074-A524-80B1682264E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D9253E-BB0D-4074-A524-80B1682264E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D9253E-BB0D-4074-A524-80B1682264E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D9253E-BB0D-4074-A524-80B1682264E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
