@@ -1,0 +1,6 @@
+@Microservicio_Analisis_y_Estadisticas_HostAddress = http://localhost:5166
+
+GET {{Microservicio_Analisis_y_Estadisticas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

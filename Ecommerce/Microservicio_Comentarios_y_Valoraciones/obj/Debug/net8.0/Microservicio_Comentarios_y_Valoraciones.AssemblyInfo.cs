@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microservicio_Comentarios_y_Valoraciones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45a1337b234364e2deae37c50c218924afb5191f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b4fc9cec323a130c74097d6a985004ac505aa9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microservicio_Comentarios_y_Valoraciones")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microservicio_Comentarios_y_Valoraciones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
