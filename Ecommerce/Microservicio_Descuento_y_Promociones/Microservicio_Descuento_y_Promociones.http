@@ -1,0 +1,6 @@
+@Microservicio_Descuento_y_Promociones_HostAddress = http://localhost:5246
+
+GET {{Microservicio_Descuento_y_Promociones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

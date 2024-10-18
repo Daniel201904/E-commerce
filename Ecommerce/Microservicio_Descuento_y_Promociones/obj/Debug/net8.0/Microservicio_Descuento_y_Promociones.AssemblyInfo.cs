@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Microservicio_Productos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Microservicio_Descuento_y_Promociones")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b0514beb6085f2b0104042d248ecbe3a5068ab")]
-[assembly: System.Reflection.AssemblyProductAttribute("Microservicio_Productos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Microservicio_Productos")]
+[assembly: System.Reflection.AssemblyProductAttribute("Microservicio_Descuento_y_Promociones")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Microservicio_Descuento_y_Promociones")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
