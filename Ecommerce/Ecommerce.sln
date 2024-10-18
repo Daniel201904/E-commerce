@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Reportes_y_Au
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicios_Gestion_de_Envios", "Microservicios_Gestion_de_Envios\Microservicios_Gestion_de_Envios.csproj", "{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicios_Integracion_con_Redes", "Microservicios_Integracion_con_Redes\Microservicios_Integracion_con_Redes.csproj", "{48717123-ADE9-4043-A578-35C3B3DA36A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48717123-ADE9-4043-A578-35C3B3DA36A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48717123-ADE9-4043-A578-35C3B3DA36A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48717123-ADE9-4043-A578-35C3B3DA36A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48717123-ADE9-4043-A578-35C3B3DA36A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
