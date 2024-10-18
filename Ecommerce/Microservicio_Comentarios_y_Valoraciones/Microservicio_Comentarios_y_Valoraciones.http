@@ -1,0 +1,6 @@
+@Microservicio_Comentarios_y_Valoraciones_HostAddress = http://localhost:5118
+
+GET {{Microservicio_Comentarios_y_Valoraciones_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microservicio_Pagos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+192f14f354f6d410fa6be3c79df9d3993865f414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45a1337b234364e2deae37c50c218924afb5191f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microservicio_Pagos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microservicio_Pagos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
