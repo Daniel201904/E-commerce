@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Autenticacion
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Descuento_y_Promociones", "Microservicio_Descuento_y_Promociones\Microservicio_Descuento_y_Promociones.csproj", "{7C8E6CEA-1B70-47A2-AC05-9DF128E47305}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_AyudaUsuario", "Microservicio_AyudaUsuario\Microservicio_AyudaUsuario.csproj", "{60232FCA-584F-4186-8659-7D70C464E126}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{7C8E6CEA-1B70-47A2-AC05-9DF128E47305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C8E6CEA-1B70-47A2-AC05-9DF128E47305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C8E6CEA-1B70-47A2-AC05-9DF128E47305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60232FCA-584F-4186-8659-7D70C464E126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60232FCA-584F-4186-8659-7D70C464E126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60232FCA-584F-4186-8659-7D70C464E126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60232FCA-584F-4186-8659-7D70C464E126}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

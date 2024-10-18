@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microservicio_Autenticacion_y_Autorizacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27b0514beb6085f2b0104042d248ecbe3a5068ab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9e7d5669615988c453abf7997b9cfa90a93cd80")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microservicio_Autenticacion_y_Autorizacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microservicio_Autenticacion_y_Autorizacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
