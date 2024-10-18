@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_AyudaUsuario"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Reportes_y_Auditoria", "Microservicio_Reportes_y_Auditoria\Microservicio_Reportes_y_Auditoria.csproj", "{37CC7D46-C09D-4677-AE9F-32E18498BB3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicios_Gestion_de_Envios", "Microservicios_Gestion_de_Envios\Microservicios_Gestion_de_Envios.csproj", "{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{37CC7D46-C09D-4677-AE9F-32E18498BB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37CC7D46-C09D-4677-AE9F-32E18498BB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37CC7D46-C09D-4677-AE9F-32E18498BB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA9AFCB-937E-443C-9686-4A5521ED7AAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

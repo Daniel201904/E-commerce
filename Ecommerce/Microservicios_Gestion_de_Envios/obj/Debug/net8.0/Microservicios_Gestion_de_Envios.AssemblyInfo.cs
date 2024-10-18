@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Microservicio_Comentarios_y_Valoraciones")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Microservicios_Gestion_de_Envios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b48481154f76045b9b7e91299132a75a6896d55e")]
-[assembly: System.Reflection.AssemblyProductAttribute("Microservicio_Comentarios_y_Valoraciones")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Microservicio_Comentarios_y_Valoraciones")]
+[assembly: System.Reflection.AssemblyProductAttribute("Microservicios_Gestion_de_Envios")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Microservicios_Gestion_de_Envios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
