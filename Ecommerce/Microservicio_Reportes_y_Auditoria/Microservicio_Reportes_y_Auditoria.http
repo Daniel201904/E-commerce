@@ -1,0 +1,6 @@
+@Microservicio_Reportes_y_Auditoria_HostAddress = http://localhost:5205
+
+GET {{Microservicio_Reportes_y_Auditoria_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
