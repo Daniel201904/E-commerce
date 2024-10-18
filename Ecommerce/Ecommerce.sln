@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Inventarios",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Pagos", "Microservicio_Pagos\Microservicio_Pagos.csproj", "{603E0233-41D5-492E-B2AA-73C7EDDC4A32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microservicio_Notificaciones", "Microservicio_Notificaciones\Microservicio_Notificaciones.csproj", "{370E5023-7734-4A2C-A015-0C870723EE8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{603E0233-41D5-492E-B2AA-73C7EDDC4A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{603E0233-41D5-492E-B2AA-73C7EDDC4A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{603E0233-41D5-492E-B2AA-73C7EDDC4A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370E5023-7734-4A2C-A015-0C870723EE8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370E5023-7734-4A2C-A015-0C870723EE8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370E5023-7734-4A2C-A015-0C870723EE8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370E5023-7734-4A2C-A015-0C870723EE8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
